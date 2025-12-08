@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parinita Patil ⛄</h1>
 
-<h3 align="center">A passionate Data Analyst & Business Analyst 📊</h3>
+<h3 align="center">A passionate Analyst 📊</h3>
 <h3 align="center">😸 Ex-UI Designer Intern @ Medorn (March 2023)</h3>
 
 <img align="right" src="https://github.com/user-attachments/assets/eaf9e302-8f45-4a5d-b3a9-ef9729a89b70" alt="think" width="450px">
